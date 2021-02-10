@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/test_evm.dir/tests/test_evm.c.o  -o test_evm  libcapstone.a 

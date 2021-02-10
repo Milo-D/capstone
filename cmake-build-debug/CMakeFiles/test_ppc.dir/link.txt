@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/test_ppc.dir/tests/test_ppc.c.o  -o test_ppc  libcapstone.a 

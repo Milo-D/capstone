@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/test_basic.dir/tests/test_basic.c.o  -o test_basic  libcapstone.a 

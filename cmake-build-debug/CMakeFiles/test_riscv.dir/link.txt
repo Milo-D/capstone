@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/test_riscv.dir/tests/test_riscv.c.o  -o test_riscv  libcapstone.a 

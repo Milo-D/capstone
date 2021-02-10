@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/test_sparc.dir/tests/test_sparc.c.o  -o test_sparc  libcapstone.a 

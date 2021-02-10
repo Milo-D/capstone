@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/test_bpf.dir/tests/test_bpf.c.o  -o test_bpf  libcapstone.a 

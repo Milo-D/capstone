@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/test_systemz.dir/tests/test_systemz.c.o  -o test_systemz  libcapstone.a 

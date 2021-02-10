@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/test_m680x.dir/tests/test_m680x.c.o  -o test_m680x  libcapstone.a 

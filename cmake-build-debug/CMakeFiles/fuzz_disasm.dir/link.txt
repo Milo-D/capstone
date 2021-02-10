@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/fuzz_disasm.dir/suite/fuzz/onefile.c.o CMakeFiles/fuzz_disasm.dir/suite/fuzz/fuzz_disasm.c.o CMakeFiles/fuzz_disasm.dir/suite/fuzz/platform.c.o  -o fuzz_disasm  libcapstone.a 
